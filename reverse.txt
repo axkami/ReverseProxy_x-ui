@@ -1,14 +1,14 @@
 
 
-location /wardaddy {
+location /k1k1 {
 
-        if ($http_upgrade != "websocket") {
+        if ($http_upgrade != "grcp") {
 
             return 404;
 
         }
 
-        location ~ /wardaddy/\d\d\d\d\d$ {
+        location ~ /k1k1/\d\d\d\d\d$ {
 
             if ($request_uri ~* "([^/]*$)" ) {
 
