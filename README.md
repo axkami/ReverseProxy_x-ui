@@ -10,5 +10,5 @@ apt update && apt install git -y && git clone https://github.com/omariscoming/Re
 Write your Doamin and Press Enter
 
 
-### Path: /wardaddy/randomPort
+### Path: /k1k1/randomPort
 
